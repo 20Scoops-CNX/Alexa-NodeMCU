@@ -14,4 +14,4 @@ https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch/edit/master/READM
  * [paypal.me/arunat](http://paypal.me/arunat)
 
 ##Reference
-- [GitHub](https://github.com/CharlesJGantt/NodeMCU-ESP8266-4-Channel-Relay-Board-Controlled-by-Amazon-Alexa)
+- NodeMCU-ESP8266-4-Channel-Relay-Board-Controlled-by-Amazon-Alexa - [GitHub](https://github.com/CharlesJGantt/NodeMCU-ESP8266-4-Channel-Relay-Board-Controlled-by-Amazon-Alexa)
