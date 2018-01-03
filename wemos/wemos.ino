@@ -16,8 +16,8 @@ void kitchenLightsOn();
 void kitchenLightsOff();
 
 // Change this before you flash
-const char* ssid = "pondthaitay";
-const char* password = "55021744";
+const char* ssid = "name_ssid";
+const char* password = "password_ssid";
 
 boolean wifiConnected = false;
 
